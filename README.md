@@ -32,16 +32,16 @@ but let’s **keep the dream alive for the future me** 🚀
 
 ## 🛠 Tech Stack
 
-**Languages**  
-`JavaScript` `PHP` `Python` `HTML` `CSS` `SQL`
+### 🧠 Languages  
+`JavaScript` `PHP` `Python` `Golang` `HTML` `CSS` `SQL`
 
-**Frameworks & Libraries**  
-`Laravel` `Vue.js` `React` `Node.js` `Tailwind CSS` `Bootstrap`
+### ⚙️ Frameworks & Libraries  
+`Laravel` `Livewire` `Filament` `Vue.js` `Node.js` `Tailwind CSS` `Bootstrap`
 
-**Databases**  
+### 🗄 Databases  
 `MySQL` `PostgreSQL` `MongoDB`
 
-**Tools & Platforms**  
+### 🛠 Tools & Platforms  
 `Git & GitHub` `Docker` `Nginx` `Postman` `VS Code` `Figma`
 
 ---
@@ -67,5 +67,3 @@ But if you’d like to know more about what I’ve worked on, feel free to reach
 If you're curious about me, need help, or just want to talk tech (or space),  
 **don't be shy — reach out!**  
 Let’s build the future together.
-
----
